@@ -1,7 +1,7 @@
 # 📊 Sales & Customer Interactive Dashboard  
 **An interactive Tableau dashboard to analyze sales performance & customer trends.**  
 
-🔗 **Live Dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/rayan.ahmed3713/viz/SalesDasboard_17418614778210/SalesDashboard)  
+🔗 **Live Dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/rayan.ahmed3713/viz/SalesCustomerDashboardsDynamic_17418711916300/SalesDashboard)  
 
 ---
 
